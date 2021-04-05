@@ -45,6 +45,9 @@ hr {
   margin-left: 68px;
 }
 .icons {
+  padding-right: 15%;
+  position: absolute;
+  width: 50%;
   height: 73px;
   background-color: #fbc02d;
   margin-left: 54%;
@@ -52,10 +55,9 @@ hr {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  padding-left: 42px;
   list-style: none;
   justify-content: space-around;
-  padding-right: 10%;
+  margin-left: 55%;
 }
 .p2 {
   font-family: "Proxima Nova";
@@ -118,4 +120,8 @@ main p {
 }
 .main_text1 {
   margin-bottom: 79px;
+}
+header {
+  position: absolute;
+  width: 100%;
 }
