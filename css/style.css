@@ -8,7 +8,6 @@ body {
   margin: 50px auto;
   display: flex;
   flex-direction: column;
-  border-left: 2px #e8eced solid;
 }
 .input {
   margin-left: 50%;
@@ -38,6 +37,7 @@ input {
   border: 1px solid#181818;
   padding-left: 68px;
   color: #fefefe;
+  outline: none;
 }
 ::placeholder {
   font-family: "Playfair Display", serif;
