@@ -67,6 +67,12 @@ hr {
   justify-content: space-around;
   margin-left: 55%;
 }
+.icons img {
+  opacity: 0.5;
+}
+.icons :hover {
+  opacity: 1;
+}
 .p2 {
   font-family: "Proxima Nova";
   font-style: normal;
