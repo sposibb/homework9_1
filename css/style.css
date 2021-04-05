@@ -36,6 +36,7 @@ input {
   background-color: #181818;
   border: 1px solid#181818;
   padding-left: 68px;
+  color: #fefefe;
 }
 hr {
   background: rgba(255, 255, 255, 0.1);
@@ -56,7 +57,7 @@ hr {
   justify-content: space-around;
   padding-right: 10%;
 }
-time {
+.p2 {
   font-family: "Proxima Nova";
   font-style: normal;
   font-weight: normal;
@@ -72,4 +73,49 @@ main {
   box-shadow: 0 0 40px 5px #2b3135;
   padding: 0 132px 0 66px;
   text-align: justify;
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.p21 {
+  padding-top: 260px;
+  margin-bottom: 18px;
+  padding-left: 124px;
+}
+main h1 {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 78px;
+  line-height: 100px;
+  text-transform: uppercase;
+  color: #2a2a2a;
+  margin-bottom: -20px;
+  padding-left: 124px;
+}
+main h2 {
+  padding-left: 124px;
+  font-family: "Georgia";
+  font-style: italic;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 34px;
+  color: #8f8f8f;
+  margin-bottom: 50px;
+}
+main p {
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  line-height: 40px;
+  color: #000000;
+  padding-left: 124px;
+}
+.main_text {
+  margin-bottom: 30px;
+}
+.main_text1 {
+  margin-bottom: 79px;
 }
